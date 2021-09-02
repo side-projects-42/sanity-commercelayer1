@@ -1,7 +1,7 @@
 {
   "name": "sanity-template-commercelayer",
   "private": false,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A multi-country ecommerce starter built with Sanity Studio, Commerce Layer, Next.js, and deployed to Netlify.",
   "author": "Commerce Layer <commercelayer.io>",
   "license": "MIT",
@@ -23,7 +23,7 @@
     "@headlessui/react": "^0.3.1",
     "@netlify/plugin-nextjs": "^3.0.3",
     "@sanity/client": "^2.2.6",
-    "@sanity/image-url": "^0.140.22",
+    "@sanity/image-url": "^1.0.0",
     "@tailwindcss/aspect-ratio": "^0.2.0",
     "@tailwindcss/forms": "^0.2.1",
     "@tailwindcss/typography": "^0.4.0",
